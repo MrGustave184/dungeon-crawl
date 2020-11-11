@@ -4,6 +4,15 @@ las clases ganan
     ataques 
     hechizos
     competencias (habilidades, armas, armaduras)
+    feats
 
 algunas de estas cosas podrian tener pre requisitos
 sub clases o clases de prestigio?
+
+7 niveles clase base
+    7 ataques/hechizos/feats
+    3 competencias
+
+3 niveles de sub clase
+    3 ataques/hechizos/feats
+    1/2 competencias
