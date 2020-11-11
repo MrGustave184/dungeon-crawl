@@ -1,5 +1,11 @@
 Welcome to dungeon crawl
 
+sistema de auto mastereo:
+    crawl (un solo dungeon)
+    aventuras (hechas de varios crawls)
+    capitulos (hechas de varias aventuras)
+    campañas (hechas de varios capitulos, tienen su propio baul)
+
 las clases ganan
     ataques 
     hechizos
