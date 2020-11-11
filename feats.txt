@@ -4,8 +4,6 @@ categorias:
     enhance feat
         aplica a un skill/spell el cual se selecciona al momento de tomar el feat y puede ser asignado a otro skill/spell solo una vez
 
-    
-
 combate a dos armas
     dos armas ligeras
 

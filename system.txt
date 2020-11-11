@@ -1,5 +1,20 @@
 Welcome to dungeon crawl
 
+arreglo base:
+    numero entre 4 y 7, 20 puntos el point buy
+    4 4 4 4 
+
+habilidades primarias
+    fuerza (ataque, daño, atletismo, pre requisito armas/armaduras/escudos marciales)
+    destreza (ataque, daño, sigilo, reflejos, iniciativa, AC)
+    constitucion (resistencia, vida)
+    sabiduria(ataque, daño, investigacion, percepcion, objetos magicos, voluntad)
+
+tiradas de salvacion
+    resistencia (constitucion + bonos)
+    voluntad (sabiduria + bonos)
+    reflejos (destreza + bonos)
+
 sistema de auto mastereo:
     crawl (un solo dungeon)
     aventuras (hechas de varios crawls)
