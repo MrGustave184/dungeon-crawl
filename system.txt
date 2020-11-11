@@ -1,1 +1,9 @@
 Welcome to dungeon crawl
+
+las clases ganan
+    ataques 
+    hechizos
+    competencias (habilidades, armas, armaduras)
+
+algunas de estas cosas podrian tener pre requisitos
+sub clases o clases de prestigio?
